@@ -1,7 +1,12 @@
+import React from 'react';
+import MainCard from './components/MainCard';
+
 const App = () => {
     return (
-        <div>App</div>
+        <div>
+            <MainCard />
+        </div>
     );
-};
+}
 
 export default App;
