@@ -21,3 +21,7 @@
     flex-wrap: wrap;
     margin-top: 1rem;
 }
+
+#card {
+    border-radius: 0 0 4px 4px;
+}
