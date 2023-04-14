@@ -1,6 +1,6 @@
 import { AppBar, IconButton, Toolbar, Typography } from "@mui/material";
 import { Menu } from '@mui/icons-material';
-import '../css/Header.css';
+import '../css/Header.scss';
 
 const Header = () => {
     function handleClick(event) {
